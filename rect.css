@@ -1,0 +1,17 @@
+#centered
+		{
+			width: 880px;
+			height: 500px;
+			margin: 30px auto;/*top and button margins are set right and left margins are automatic*/
+			border: 1px solid black;
+		}
+body{
+			background:  #eaecee;
+		}
+
+h1{
+
+	text-align: center;
+	color: #be74bb;
+
+}
