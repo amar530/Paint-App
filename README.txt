@@ -1,0 +1,1 @@
+This is an application created on html5 canvas with help of Java Script that I developed to create making Rectangles on canvas Like MS Paint. In this app, Users can draw the rectangles on canvas by clicking and dragging the mouse. Depends on users how many RectangleS can be drawn. 
